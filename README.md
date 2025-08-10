@@ -1,4 +1,4 @@
-# 💰 Expense-Tracking-System
+## 💰 Expense-Tracking-System
 A full-stack Python application for managing and visualizing personal expenses
 Frontend: 🎨 Streamlit | Backend: ⚡ FastAPI | Testing: ✅ Pytest
 
