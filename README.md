@@ -2,7 +2,7 @@
 A full-stack Python application for managing and visualizing personal expenses
 Frontend: 🎨 Streamlit | Backend: ⚡ FastAPI | Testing: ✅ Pytest
 
-###📌 Overview
+#📌 Overview
 The Expense-Tracking-System is a simple yet powerful tool to help users log, categorize, and analyze their spending. With a clean Streamlit interface and a fast FastAPI backend, it offers a seamless and responsive experience for everyday financial tracking.
 
 ##✨ Key Features
