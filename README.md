@@ -2,10 +2,12 @@
 A full-stack Python application for managing and visualizing personal expenses
 Frontend: 🎨 Streamlit | Backend: ⚡ FastAPI | Testing: ✅ Pytest
 
-#📌 Overview
+📌 Overview
+
 The Expense-Tracking-System is a simple yet powerful tool to help users log, categorize, and analyze their spending. With a clean Streamlit interface and a fast FastAPI backend, it offers a seamless and responsive experience for everyday financial tracking.
 
-##✨ Key Features
+✨ Key Features
+
 📝 Add & categorize expenses with date and description.
 📊 Visualize spending trends using bar charts, line graphs, and pie charts.
 ⚡ Fast, scalable backend with interactive API docs (Swagger UI).
@@ -15,12 +17,14 @@ The Expense-Tracking-System is a simple yet powerful tool to help users log, cat
 🧪 tests/ — Pytest for automated unit & integration tests.
 🛡 Robust test coverage to ensure reliability.
 
-##🚀 Why This Project Stands Out
+🚀 Why This Project Stands Out
+
 ✅ Demonstrates end-to-end development: UI, API, and testing.
 📈 Data-driven insights with real-world utility.
 🛠 Built with modern Python frameworks and best practices.
 
-##🛠 Installation & Setup
+🛠 Installation & Setup
+
 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/AquasaAziz247/Expense-Tracking-System.git
@@ -45,7 +49,7 @@ pytest tests/
 Ensures all components remain robust & error-free.
 ```
 
-## Project Structure
+ Project Structure
 
 Expense-Tracking-System/
 ├─ backend/       ⚡ FastAPI endpoints & logic
@@ -54,7 +58,11 @@ Expense-Tracking-System/
 ├─ requirements.txt 📦 Dependencies
 └─ README.md       📄 Project documentation
 
-##🛠 Tech Stack
+🛠 Tech Stack
+
 ⚡ FastAPI — High-performance API framework with automatic docs.
 🎨 Streamlit — Rapid UI development for data apps.
 ✅ Pytest — Simple, powerful testing framework.
+
+Author
+AQUASA AZIZ
